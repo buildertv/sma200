@@ -1,0 +1,11 @@
+{
+  "symbol": "E1VFVN30",
+  "history_years": 2,
+
+  "telegram": {
+    "bot_token": "YOUR_BOT_TOKEN",
+    "chat_id": "YOUR_CHAT_ID"
+  },
+
+  "notify_every_completed_month": false
+}
